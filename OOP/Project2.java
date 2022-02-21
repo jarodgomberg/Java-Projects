@@ -1,3 +1,8 @@
+/*
+	This project is written by 
+		Jarod Gomberg
+*/
+
 import java.util.Scanner;
 
 public class Project2 {
